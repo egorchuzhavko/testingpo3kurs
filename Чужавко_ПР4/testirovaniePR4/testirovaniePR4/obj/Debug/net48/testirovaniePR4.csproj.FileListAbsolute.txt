@@ -1,0 +1,6 @@
+D:\study\3 курс\Тестирование ПО(3курс)\Сделанные лабы\Чужавко_ПР4\testirovaniePR4\testirovaniePR4\obj\Debug\net48\testirovaniePR4.csproj.AssemblyReference.cache
+D:\study\3 курс\Тестирование ПО(3курс)\Сделанные лабы\Чужавко_ПР4\testirovaniePR4\testirovaniePR4\obj\Debug\net48\testirovaniePR4.csproj.SuggestedBindingRedirects.cache
+D:\study\3 курс\Тестирование ПО(3курс)\Сделанные лабы\Чужавко_ПР4\testirovaniePR4\testirovaniePR4\obj\Debug\net48\testirovaniePR4.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\Тестирование ПО(3курс)\Сделанные лабы\Чужавко_ПР4\testirovaniePR4\testirovaniePR4\obj\Debug\net48\testirovaniePR4.AssemblyInfoInputs.cache
+D:\study\3 курс\Тестирование ПО(3курс)\Сделанные лабы\Чужавко_ПР4\testirovaniePR4\testirovaniePR4\obj\Debug\net48\testirovaniePR4.AssemblyInfo.cs
+D:\study\3 курс\Тестирование ПО(3курс)\Сделанные лабы\Чужавко_ПР4\testirovaniePR4\testirovaniePR4\obj\Debug\net48\testirovaniePR4.csproj.CoreCompileInputs.cache
